@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise_array">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Pullup</item>
+        <item>Jumping Jacks</item>
+        <item>Leg-lift</item>
+        <item>Walking</item>
+        <item>Plank</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+
+    </string-array>
+</resources>
